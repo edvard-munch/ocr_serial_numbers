@@ -1,5 +1,5 @@
-Input a folders with photos of a serial numbers of Axiomtec industrial PCs, recognize the text from the picture and then parse the serial number.
-Replace initial picture name a correctly parsed serial number
+Input a folder with photos of serial numbers of Axiomtec industrial PCs, recognize the text from the picture and then parse the serial number.
+Replace initial picture name a correctly parsed serial number.
 
 Example input:
 
